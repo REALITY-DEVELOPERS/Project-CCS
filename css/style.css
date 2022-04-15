@@ -16,6 +16,7 @@
         background-repeat: no-repeat;
         background-size: cover;
     }
+    /* Navbar Start */
     
     a {
         text-decoration: none;
@@ -186,6 +187,7 @@
             opacity: 1;
         }
     }
+    /*End NavBar*/
     /* content */
     
     .content .css {
@@ -231,4 +233,4 @@
         overflow: hidden;
         padding: 0 2rem;
     }
-    /* end content */
+    /* End content */

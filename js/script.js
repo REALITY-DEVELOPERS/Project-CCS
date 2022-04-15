@@ -1,3 +1,5 @@
+// mobile navbar
+
 var open = document.getElementById('hamburger');
 var changeIcon = true;
 
@@ -21,3 +23,4 @@ open.addEventListener("click", function() {
         changeIcon = true;
     }
 });
+// mobile navbar End

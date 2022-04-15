@@ -160,7 +160,7 @@
             }
         }
         
-        @media screen and (max-width: 1010px) {
+        @media screen and (max-width: 760px) {
             .menu-toggle {
                 display: block;
             }
